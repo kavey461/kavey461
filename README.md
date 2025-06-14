@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kavey461
+     I'm currently a game localizer working from Russian to English
 - 👀 I’m interested in learning gamedev (for 2D/low-poly 3D platformers, retro-style FPS, AG racers) and solving coding problems
 - 🌱 I’m currently learning JavaScript, PICO-8, Godot
 - 📫 How to reach me: LinkedIn, email
